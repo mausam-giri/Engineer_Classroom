@@ -1,0 +1,11 @@
+ID,Name,Value
+1,Apple,100
+2,Banana,200
+3,Orange,150
+4,Grape,300
+5,Kiwi,120
+6,Mango,250
+7,Pineapple,180
+8,Watermelon,350
+9,Strawberry,90
+10,Blueberry,210

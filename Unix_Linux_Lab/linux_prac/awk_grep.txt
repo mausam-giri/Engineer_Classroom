@@ -1,0 +1,12 @@
+1 apple 100
+2 banana 200
+3 orange 150
+4 grape 300
+5 kiwi 120
+6 mango 250
+7 pineapple 180
+8 watermelon 350
+9 strawberry 90
+10 blueberry 210
+11 raspberry 270
+12 lemon 130
